@@ -1,4 +1,5 @@
-Landing Web Built using ReactJs
+#CodeHouse Project
+Landing Page of an imaginary community made by leveraging the power of ReactJS and deployed with the help of Vercel.
 
 # Getting Started with Create React App
 
