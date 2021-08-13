@@ -1,5 +1,6 @@
 # CodeHouse Project
 Landing Page of an imaginary community made by leveraging the power of ReactJS and deployed with the help of Vercel.
+DEMO: landing-page-roan-two.vercel.app/
 
 # Getting Started with Create React App
 
